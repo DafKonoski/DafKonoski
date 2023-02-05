@@ -21,7 +21,3 @@ Oiiii 👋
   <a href="https://www.linkedin.com/in/dafiny-heloise-119649218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ##
-  
-  <div>
-  <img align="center" alt="daf-sm" src="https://i.pinimg.com/originals/7d/03/55/7d03550dfc3b7dfdd2348f005963f0f5.gif">
