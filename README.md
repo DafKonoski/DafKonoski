@@ -3,15 +3,16 @@ Oiiii 👋
   <a href="https://github.com/DafKonoski">
 </div>
 
-- 🔭 Estou estudando JS & C
-- 🤔 Preciso de ajuda com JS
+- 🔭 Estou estudando JS, C e HTML
+- 🤔 Preciso de ajuda com JS e HTML
 - 📫 Meu email: dafinyheloise@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: eu amo insetos
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg">
+  <img align="center" alt="Daf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daf-Ts" height="30" width="40" src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg">
+  <img align="center" alt="Daf-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
   
   ##
   
