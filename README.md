@@ -9,7 +9,7 @@ Seja bem-vindo(a) 👋
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Daf-Moon" height="30" width="40" src="https://64.media.tumblr.com/7a8fbc530bdd7f6951399fbafc87f382/166780aa9c54e87c-93/s1280x1920/ad39ff04d515b0667cef7a80ec57f9309e33bde2.gif">
+  <img align="center" alt="Daf-Moon" height="40" width="50" src="https://64.media.tumblr.com/7a8fbc530bdd7f6951399fbafc87f382/166780aa9c54e87c-93/s1280x1920/ad39ff04d515b0667cef7a80ec57f9309e33bde2.gif">
   
   ##
   
