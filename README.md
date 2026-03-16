@@ -1,12 +1,11 @@
-Oiiii 👋
+Seja bem-vindo(a) 👋
 <div align="center">
   <a href="https://github.com/DafKonoski">
 </div>
 
-- 🔭 Estou estudando JS, C, HTML e CSS
+- 🔭 Estou estudando desenvolvimento de jogos
 - 📫 Meu email: dafinyheloise@gmail.com
-- 😄 Pronomes: ela/dela
-- ⚡ Fun fact: eu amo insetos
+- ⚡ Fun fact: eu amo gatos e insetos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
