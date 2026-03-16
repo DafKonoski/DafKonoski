@@ -8,10 +8,10 @@ Seja bem-vindo(a) 👋
 - ⚡ Fun fact: eu amo gatos e insetos
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Daf-Moon" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://64.media.tumblr.com/c9b266f89bbf4780d8cd487cac06c5a8/a8e7100415ed3a4e-19/s500x750/fd40dfb2ba48640641b7fa9b0a1a9bd1faa395f0.gifv)">
-  <img align="center" alt="Daf-Ts" height="30" width="40" src="https://64.media.tumblr.com/c9b266f89bbf4780d8cd487cac06c5a8/a8e7100415ed3a4e-19/s500x750/fd40dfb2ba48640641b7fa9b0a1a9bd1faa395f0.gifv">
-  <img align="center" alt="Daf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daf-Js" height="30" width="40" src="https://camo.githubusercontent.com/edc736634dd35b0f4008e2f7db456136b9fc0e1e7a4078bb72c7352b1bdf8a7e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667">
+  <img align="center" alt="Daf-Moon1" height="30" width="40" src="https://64.media.tumblr.com/7a8fbc530bdd7f6951399fbafc87f382/166780aa9c54e87c-93/s1280x1920/ad39ff04d515b0667cef7a80ec57f9309e33bde2.gif">
+  <img align="center" alt="Daf-Moon2" height="30" width="40" src="https://64.media.tumblr.com/c9b266f89bbf4780d8cd487cac06c5a8/a8e7100415ed3a4e-19/s500x750/fd40dfb2ba48640641b7fa9b0a1a9bd1faa395f0.gifv">
+  <img align="center" alt="Daf-Moon3" height="30" width="40" src="https://img1.picmix.com/output/pic/normal/2/9/1/3/10433192_545c1.gif">
+  <img align="center" alt="Daf-Luna" height="30" width="40" src="https://media.tenor.com/2TAMFVjbKb0AAAAM/sailor-moon-luna.gif">
   
   ##
   
