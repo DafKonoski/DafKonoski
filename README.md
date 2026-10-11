@@ -3,8 +3,7 @@ Seja bem-vindo(a) 👋
   <a href="https://github.com/DafKonoski">
 </div>
 
-- 🔭 Estou estudando desenvolvimento de jogos
-- 📫 Meu email: dafinyheloise@gmail.com
+- Game Dev 🎮​🎲​
 
 <div style="display: inline_block"><br>
   
