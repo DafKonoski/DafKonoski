@@ -5,7 +5,6 @@ Seja bem-vindo(a) 👋
 
 - 🔭 Estou estudando desenvolvimento de jogos
 - 📫 Meu email: dafinyheloise@gmail.com
-- ⚡ Fun fact: eu amo gatos e insetos
 
 <div style="display: inline_block"><br>
   
